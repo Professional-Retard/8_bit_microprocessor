@@ -1,0 +1,1 @@
+An 8 bit computer built using basic electronic components in Logisim. It can move 8 bit data to different registers from RAM, add them, bring them back to RAM, jump to instructions and end operations 
